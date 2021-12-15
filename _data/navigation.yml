@@ -1,0 +1,82 @@
+# main links
+main:
+  - title: "Computer Engineering"
+    sublinks:
+      - title: JAVA
+        url: /computer-engineering/java/
+      - title: Python
+        url: /computer-engineering/python/
+      - title: Linux
+        url: /computer-engineering/linux/
+      - title: Data Structure
+        url: /computer-engineering/data-structure/
+      - title: Git
+        url: /computer-engineering/git/
+      - title: Regex
+        url: /computer-engineering/regex/
+
+
+  - title: Database
+    sublinks:
+      - title: Database Theory
+        url: /database-theory/
+      - title: MySQL
+        url: /mySQL/
+      - title: PostgreSQL
+        url: /postgreSQL/
+      - title: MongoDB
+        url: /mongoDB/        
+
+  - title: AI
+    sublinks:
+      - title: Image Classification
+        url: /img-classification/
+      - title: Anomaly Detection
+        url: /anomaly-detection/
+      - title: Segmentation
+        url: /segmentation/
+      - title: GAN
+        url: /gan/
+      - title: AutoEncoder
+        url: /autoencoder/
+      - title: Recommendation System
+        url: /recommendation-system/
+      - title: Forecasting
+        url: /forecasting/
+      - title: Math & Statistics
+        url: /Math-Statistics/
+        
+
+  - title: Interests
+    sublinks:
+      - title: Daily Tech News
+        url: /tech-news/
+      - title: CS Papers
+        url: /cs-papers/
+      - title: Jekyll Blog
+        url: /jekyll-blog/
+      - title: Other
+        url: /other/
+
+  - title: "Categories"
+    url: /categories/
+
+
+
+
+# the sidebar menu
+# docs:
+#   - title: Projects
+#     url: /computer-engineering/
+#
+#   - title: Study Notes
+#     url: /study/
+#
+#   - title: Data Structures and Algorithms
+#     url: /data-structres-and-algorithms/
+#
+#   - title: CS Papers
+#     url: /cs-papers/
+#
+#   - title: Daily Tech News
+#     url: /tech-news/
