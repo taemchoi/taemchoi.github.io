@@ -39,6 +39,6 @@ Thumbs.db
 # folders
 _posts/_drafts/
 _site/
-vendor/
+vendor/bundle
 assets/images/GIT MAIN.psd
 .bundle/
