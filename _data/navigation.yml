@@ -47,17 +47,6 @@ main:
         url: /Math-Statistics/
         
 
-  - title: Interests
-    sublinks:
-      - title: Daily Tech News
-        url: /tech-news/
-      - title: CS Papers
-        url: /cs-papers/
-      - title: Jekyll Blog
-        url: /jekyll-blog/
-      - title: Other
-        url: /other/
-
   - title: "Categories"
     url: /categories/
 
