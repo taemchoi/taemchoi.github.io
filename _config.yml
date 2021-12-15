@@ -207,6 +207,7 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  toc_sticky : true
 
 
 # Sass/SCSS
@@ -299,7 +300,7 @@ defaults:
       share: false
       related: true
       toc_ads: false
-      toc_sticky: false
+      toc_sticky: true
 
   # _pages
   - scope:

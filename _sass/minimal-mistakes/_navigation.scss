@@ -533,28 +533,71 @@
      Table of contents navigation
      ========================================================================== */
 
+     
 .toc {
+  right: 0px;
+  width: 240px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+  padding-top: 0.25rem;
+  padding-bottom: 0.25rem;
+  margin-right: 0px;
+  font-size: 1.0rem;
+  border-left: 2px solid #ece8e5;
   font-family: $sans-serif-narrow;
-  color: $gray;
-  background-color: $background-color;
-  border: 1px solid $border-color;
-  border-radius: $border-radius;
+  color: rgb(185, 37, 37);
+  // color: $gray;
+  // background-color: $background-color;
+  // border: 1px solid $border-color;
+  // border-radius: $border-radius;
+  display: none;
+  @media (min-width: 75em){
+    width: 240px;
+    display: block;
+  }
+  @media (min-width: 85em){
+    width: 300px;
+    display: block;
+  }
+  @media (min-width: 95em){
+    width: 360px;
+    display: block;
+  }
+
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    color: $dark-gray;
     font-size: $type-size-6;
-    background: $primary-color;
-    border-top-left-radius: $border-radius;
-    border-top-right-radius: $border-radius;
-    border-bottom: 1px solid #f2f3f3;
+    background: $background-color;
+    // border-top-left-radius: $border-radius;
+    // border-top-right-radius: $border-radius;
+    // border-bottom: 1px solid #f2f3f3;
   }
 
   // Scrollspy marks toc items as .active when they are in focus
-  .active a {
-    @include yiq-contrasted($active-color);
+  .active {
+    font-weight: bold; 
+    transition: all 0.125s ease-in 0s; 
+    font-size: 0.75rem;
+    color: #550e97;
+    @include yiq-contrasted(rgb(250, 250, 241));
   }
+  
+  ul {
+    list-style-type: none;
+    margin-bottom: 0.1rem;
+    padding-left: 0rem;
+    li {
+      padding-left: .5rem;
+    }
+  }
+
+
+
 }
 
 .toc__menu {
