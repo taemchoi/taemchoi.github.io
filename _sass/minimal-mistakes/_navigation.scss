@@ -584,7 +584,7 @@
     transition: all 0.125s ease-in 0s; 
     font-size: 0.75rem;
     color: #550e97;
-    @include yiq-contrasted(rgb(250, 250, 241));
+    @include yiq-contrasted(rgb(248, 248, 248));
   }
   
   ul {
