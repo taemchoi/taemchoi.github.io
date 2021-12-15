@@ -285,7 +285,6 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-seo-tag
   jekyll-sitemap
-  minimal-mistakes-jekyll (~> 4.24)
   tzinfo-data
   wdm (~> 0.1.0)
   webrick (~> 1.7)
