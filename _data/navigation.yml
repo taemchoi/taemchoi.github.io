@@ -41,6 +41,8 @@ main:
         url: /gan/
       - title: AutoEncoder
         url: /autoencoder/
+      - title: NLP
+        url: /nlp/
       - title: Recommendation System
         url: /recommendation-system/
       - title: Forecasting
