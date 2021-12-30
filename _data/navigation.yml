@@ -3,19 +3,19 @@ main:
   - title: "Computer Engineering"
     sublinks:
       - title: JAVA
-        url: /computer-engineering/java/
+        url: /java/
       - title: Python
-        url: /computer-engineering/python/
+        url: /python/
       - title: Linux
-        url: /computer-engineering/linux/
+        url: /linux/
       - title: Data Structure
-        url: /computer-engineering/data-structure/
+        url: /data-structure/
       - title: Git
-        url: /computer-engineering/git/
+        url: /git/
       - title: Regex
-        url: /computer-engineering/regex/
+        url: /regex/
       - title: etc
-        url: /computer-engineering/etc/
+        url: /etc/
 
 
   - title: Database
@@ -23,11 +23,11 @@ main:
       - title: Database Theory
         url: /database-theory/
       - title: MySQL
-        url: /mySQL/
+        url: /mysql/
       - title: PostgreSQL
-        url: /postgreSQL/
+        url: /postgresql/
       - title: MongoDB
-        url: /mongoDB/        
+        url: /mongodb/        
 
   - title: AI
     sublinks:
@@ -60,7 +60,7 @@ main:
 # the sidebar menu
 # docs:
 #   - title: Projects
-#     url: /computer-engineering/
+#     url: /
 #
 #   - title: Study Notes
 #     url: /study/
