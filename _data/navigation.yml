@@ -47,8 +47,8 @@ main:
         url: /recommendation-system/
       - title: Forecasting
         url: /forecasting/
-      - title: Math & Statistics
-        url: /Math-Statistics/
+      - title: Math & Statistics & etc
+        url: /Math-Statistics-etc/
         
 
   - title: "Categories"

@@ -1,7 +1,7 @@
 ---
 layout: category
-taxonomy: Math & Statistics
-title: Math & Statistics
-permalink: "/math-statistics/"
+taxonomy: Math & Statistics & etc
+title: Math & Statistics & etc
+permalink: "/math-statistics-etc/"
 author_profile: false
 ---
