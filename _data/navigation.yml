@@ -49,6 +49,8 @@ main:
         url: /forecasting/
       - title: Math & Statistics & etc
         url: /Math-Statistics-etc/
+      - title: Reinforcement Learning
+        url: /reinforcement/
         
 
   - title: "Categories"
