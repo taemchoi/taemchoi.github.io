@@ -1,5 +1,5 @@
 ---
-title: "crontab을 활용한 스케줄링"
+title: "MP, MRP, MDP"
 tags: [Reinforcement Learning]
 categories:
   - reinforcement
