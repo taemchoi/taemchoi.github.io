@@ -2,7 +2,7 @@
 title: "Docker와 VM"
 tags: [Docker]
 categories:
-  - etc
+  - docker-k8s
 date: 2022-01-06
 toc : true
 ---
