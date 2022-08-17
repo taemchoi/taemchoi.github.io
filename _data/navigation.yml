@@ -33,8 +33,8 @@ main:
 
   - title: AI
     sublinks:
-      - title: Image Classification
-        url: /img-classification/
+      - title: Computer Vision
+        url: /computer-vision/
       - title: Anomaly Detection
         url: /anomaly-detection/
       - title: Segmentation
@@ -54,6 +54,10 @@ main:
       - title: Reinforcement Learning
         url: /reinforcement/
         
+  - title: "Cloud"
+    sublinks:
+      - title: AWS
+        url: /aws/
 
   - title: "Categories"
     url: /categories/
