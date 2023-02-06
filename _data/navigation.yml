@@ -16,6 +16,8 @@ main:
         url: /regex/
       - title: Docker k8s
         url: /docker-k8s/
+      - title: Network
+        url: /network/
       - title: etc
         url: /etc/
 
@@ -53,7 +55,7 @@ main:
         url: /Math-Statistics-etc/
       - title: Reinforcement Learning
         url: /reinforcement/
-        
+
   - title: "Cloud"
     sublinks:
       - title: AWS
