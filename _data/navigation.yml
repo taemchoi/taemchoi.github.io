@@ -6,6 +6,8 @@ main:
         url: /java/
       - title: Python
         url: /python/
+      - title: JavaScript
+        url: /js/
       - title: Linux
         url: /linux/
       - title: Data Structure
@@ -20,7 +22,6 @@ main:
         url: /network/
       - title: etc
         url: /etc/
-
 
   - title: Database
     sublinks:
