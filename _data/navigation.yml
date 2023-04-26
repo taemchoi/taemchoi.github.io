@@ -8,6 +8,8 @@ main:
         url: /python/
       - title: JavaScript
         url: /js/
+      - title: TypeScript
+        url: /ts/
       - title: Linux
         url: /linux/
       - title: Data Structure
